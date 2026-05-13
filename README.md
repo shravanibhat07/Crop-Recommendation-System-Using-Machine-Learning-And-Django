@@ -36,10 +36,10 @@ The system successfully predicts suitable crops based on soil nutrient and clima
 ## Screenshots
 
 ### Input Page
-![Input Page](crop input1.png)
+![Input Page](./crop%20input1.png)
 
 ### Prediction Output
-![Output Page]( crop output1.png)
+![Output Page](./crop%20 output1.png)
 
 ## Future Improvements
 - Integration with IoT sensors
