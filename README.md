@@ -33,6 +33,13 @@ The Crop Recommendation System is a machine learning-based application developed
 
 ## Result
 The system successfully predicts suitable crops based on soil nutrient and climatic conditions with high accuracy of 99.57% using Naive Bayes.
+## Screenshots
+
+### Input Page
+![Input Page](crop input1.png)
+
+### Prediction Output
+![Output Page]( crop output1.png)
 
 ## Future Improvements
 - Integration with IoT sensors
